@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently working on my projects<br>- I'm looking to collaborate with other Data Analyst or Developers<br>- Learning Data Analyst and Data Manipulation<br>- I'm looking for a team working
+- I'm currently working on my projects<br>- I'm looking to collaborate with other Data Scientists or Developers<br>- Learning Data Science and Machine Learning<br>- I'm looking for a team working
 
 
 ## 🌐 Socials:
